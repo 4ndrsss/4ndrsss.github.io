@@ -1,0 +1,4 @@
+[submodule "classic/themes/paperesque"]
+	path = classic/themes/paperesque
+	url = https://github.com/capnfabs/paperesque
+	branch = mainline

@@ -1,0 +1,9 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Person4ndrsss'
+theme = "paperesque"
+
+
+[[params.menu]]
+	name = "blog"
+	url = "posts/"
